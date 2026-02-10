@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**NikolasNod/NikolasNod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Who I am
+I am Nikolas and I am trying to learn how to program by myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I am currently working on:
+* A Student Management System
+
+# What I am currently learning:
+* The Java Programming Language
+
+# What I know so far:
+* Python (as well as how to handle SQLite databases with it)
+* Javascript
+* Basic HTML and CSS (not good at design)
+
