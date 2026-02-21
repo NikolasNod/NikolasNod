@@ -6,7 +6,6 @@
 I am Nikolas and I am trying to learn how to program by myself.
 
 # What I am currently working on:
-* Skillbloom, a learning app like Udemy and Coursera
 
 # What I am currently learning:
 * The Java Programming Language
