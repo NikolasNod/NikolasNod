@@ -8,11 +8,11 @@ I am Nikolas and I am trying to learn how to program by myself.
 # What I am currently working on:
 
 # What I am currently learning:
-* The Java Programming Language
+* SQL Databases
 * Software Design
 
 # What I know so far:
 * Python (as well as how to handle SQLite databases with it)
 * Basic Javascript
 * Basic HTML and CSS (not good at design)
-
+* Basic Java
