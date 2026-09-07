@@ -7,7 +7,7 @@
 - Javascript
 - Python
 - Node.js
-- MySQL
+- MySQL / PostgreSQL
 - React
 
 ## Τα repositories μου
