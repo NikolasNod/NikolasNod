@@ -9,6 +9,7 @@
 - Node.js
 - MySQL / PostgreSQL
 - React
+- Express.js
 
 ## Τα repositories μου
 ### Personal Finance Tracker *( ΣΥΝΤΟΜΑ )*
